@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "netflix-project"
+    }
+  },
+  "defaultProject": "netflix-project",
+  "cli": {
+    "analytics": false
+  }
 }

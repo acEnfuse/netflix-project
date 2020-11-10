@@ -1,0 +1,30 @@
+.items {
+    display: grid;
+    height: page;
+    background-color: #00e6e6;
+    justify-content: center;
+    align-items: center;
+}
+
+.item {
+    width: 300px!important;
+    height: 45px;
+    min-width: unset!important;
+}
+
+.center {
+    display: grid;
+    height: page;
+    background-color: #00e6e6;
+    justify-content: center;
+    align-items: center;
+}
+
+.header {
+    padding: 10px;
+    text-align: center;
+    background: #f54081;
+    color: yellow;
+    font-family: Impact;
+    font-size: 50px;
+  }
